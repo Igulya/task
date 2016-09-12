@@ -1,0 +1,5 @@
+ var n = 0;
+    while( n <= 100){
+        n = prompt('ввести число, большее 100','');
+        if(n == null) break;
+    };
